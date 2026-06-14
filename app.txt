@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+Features: Git workflow simulation, team collaboration environment, and automated CI checking.
